@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "729128690757",
+    "project_id": "park-at-home",
+    "storage_bucket": "park-at-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729128690757:android:1564f8640bb9de07ac6f2c",
+        "android_client_info": {
+          "package_name": "com.example.parkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729128690757-g16n32g4sg624ial7rk777p3g0juimh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkingapp",
+            "certificate_hash": "27132bc16311d719dca9e688bca1c4fd0b8a07b0"
+          }
+        },
+        {
+          "client_id": "729128690757-n8jtaqaosn8nntij8ocbvmifhbdituvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-zREF8mYfH5Q7L-r-8a6U9bS5jOOb2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729128690757-n8jtaqaosn8nntij8ocbvmifhbdituvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
